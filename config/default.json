@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://mongoreact:Hafizhabib123@cluster0.gwmcw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecretToken",
+    "githubclientId":"a0f060b5921c3eb2708a",
+    "usersecretId":"bce0a534af9cd60f49fc182c78aedf11b3d2bc94"
+}
